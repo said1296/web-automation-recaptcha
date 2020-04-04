@@ -1,0 +1,1 @@
+nmcli c up INFINITUMC69A_5
